@@ -8,7 +8,7 @@ Fit+ é um aplicativo CLI em Python desenvolvido para auxiliar proprietários de
 
 ---
 
-# 🇬🇧 Fit+ Gym Management CLI Application
+# 🇬🇧 Fit+: Gym Management CLI Application
 Fit+ is a Python CLI application developed to assist gym owners and trainers in managing their students and their training sessions. It is a comprehensive solution for tracking student information and monitoring training sessions.
 
 ## Features:
