@@ -6,7 +6,7 @@ Fit+ é um aplicativo CLI em Python desenvolvido para auxiliar proprietários de
 - **Agendamento de Treinos:** Crie treinos personalizados para alunos, permitindo que os instrutores atribuam até 10 exercícios específicos.
 - **Monitoramento de Progresso:** Registre e analise o progresso dos alunos por meio de métricas como peso e avaliações físicas.
 
-[ não requer dependências ]
+[ não requer dependências ] 
 
 ---
 
